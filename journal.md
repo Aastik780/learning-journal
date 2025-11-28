@@ -27,3 +27,4 @@
 [2026-10-20] learning entry 1
 [2026-10-20] learning entry 2
 [2026-10-20] learning entry 3
+[2025-11-28] learning entry 1
